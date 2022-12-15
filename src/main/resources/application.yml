@@ -1,0 +1,13 @@
+
+
+spring:
+  port: 1234
+  aop:
+    auto: false
+proprietatea:
+  mea:
+    ceva:
+      subpunct: true
+    altceva:
+      sdas: 10
+
